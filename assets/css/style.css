@@ -25,6 +25,18 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Jost", sans-serif;
 }
+.idioma_icon{
+  width: 25px;
+  height: 25px;
+  border-radius: 50px 50px;
+}
+.codeteacher_logo{
+  margin-left: -20px;
+}
+.ufma{
+  height: 85px;
+  width: 82;
+}
 
 /*--------------------------------------------------------------
 # Preloader
